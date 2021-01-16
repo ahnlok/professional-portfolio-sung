@@ -302,6 +302,15 @@ img{
 #resume{
   text-align: center;
 }
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  text-align: center
+}
+.resume-image{
+  border: 2px solid black;
+}
 .project-item{
   border: 2px solid black;
 }
